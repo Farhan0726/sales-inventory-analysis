@@ -136,8 +136,8 @@ Dashboard includes:
 
 ## 📄 Project Files
 
-- 📄 Report: `reports/Vendor_Performance_Report.pdf`  
-- 📊 Presentation: `reports/Vendor_Performance_Presentation.pptx`  
+- 📄 Report: `reports/Project_report.pdf`  
+- 📊 Presentation: `reports/project_presentation.pdf`  
 
 ---
 
