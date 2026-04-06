@@ -133,12 +133,10 @@ Dashboard includes:
 - No time-series analysis performed  
 
 ---
+## 📁 Project Files
 
-## 📄 Project Files
-
-- 📄 Report: `reports/Project_report.pdf`  
-- 📊 Presentation: `reports/project_presentation.pdf`  
-
+- 📄 **Report:** [Download Report](reports/Project_report.pdf)
+- 📊 **Presentation:** [Download Presentation](reports/project_presentation.pdf)
 ---
 
 ## 👨‍💻 Author
