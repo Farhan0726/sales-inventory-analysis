@@ -47,7 +47,7 @@ Due to size limitations, raw datasets and database files are not included.
 ## 📊 Key Analysis & Visualizations
 
 ### 🔹 Exploratory Data Analysis
-![EDA](screenshots/EDA.png)
+![EDA](Screenshots/EDA.png)
 
 - Data distribution shows strong skewness in sales and purchase values  
 - Presence of outliers in profit and cost-related features  
@@ -55,7 +55,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Correlation Heatmap
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](Screenshots/heatmap.png)
 
 - Strong positive correlation between:
   - Total Sales & Gross Profit  
@@ -65,7 +65,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Histogram Analysis
-![Histogram](screenshots/histogram.png)
+![Histogram](Screenshots/histogram.png)
 
 - Most variables are right-skewed  
 - Indicates presence of high-value outliers  
@@ -73,7 +73,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Confidence Interval Analysis
-![Intervals](screenshots/intervals.png)
+![Intervals](Screenshots/intervals.png)
 
 - Low-performing vendors have higher profit margins  
 - Top vendors operate on lower margins but higher volume  
@@ -81,7 +81,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Vendor Contribution (Donut Chart)
-![Pie Chart](screenshots/pie chart.png)
+![Pie Chart](Screenshots/piechart.png)
 
 - Top 10 vendors contribute ~65% of total purchases  
 - Indicates dependency on limited vendors  
@@ -89,7 +89,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Scatter Plot (Brand Performance)
-![Scatter](screenshots/scatter plot.png)
+![Scatter](Screenshots/scatterplot.png)
 
 - Identifies high-margin but low-sales brands  
 - Highlights potential growth opportunities  
@@ -97,7 +97,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Power BI Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 Dashboard includes:
 - KPI cards (Sales, Purchase, Profit, Margin)  
