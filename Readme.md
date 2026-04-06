@@ -81,7 +81,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Vendor Contribution (Donut Chart)
-![Pie Chart](Screenshots/pie chart.png)
+![Pie Chart](Screenshots/piechart.png)
 
 - Top 10 vendors contribute ~65% of total purchases  
 - Indicates dependency on limited vendors  
@@ -89,7 +89,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Scatter Plot (Brand Performance)
-![Scatter](Screenshots/scatter plot.png)
+![Scatter](Screenshots/scatterplot.png)
 
 - Identifies high-margin but low-sales brands  
 - Highlights potential growth opportunities  
@@ -97,7 +97,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Power BI Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 Dashboard includes:
 - KPI cards (Sales, Purchase, Profit, Margin)  
