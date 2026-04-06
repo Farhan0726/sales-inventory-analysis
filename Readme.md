@@ -81,7 +81,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Vendor Contribution (Donut Chart)
-![Pie Chart](Screenshots/piechart.png)
+![Pie Chart](Screenshots/pie chart.png)
 
 - Top 10 vendors contribute ~65% of total purchases  
 - Indicates dependency on limited vendors  
@@ -89,7 +89,7 @@ Due to size limitations, raw datasets and database files are not included.
 ---
 
 ### 🔹 Scatter Plot (Brand Performance)
-![Scatter](Screenshots/scatterplot.png)
+![Scatter](Screenshots/scatter plot.png)
 
 - Identifies high-margin but low-sales brands  
 - Highlights potential growth opportunities  
